@@ -5,3 +5,12 @@ table{
     max-width: 1000px;
     width: 100%;
 }
+li{
+    font-size: 20px;
+}
+h2{
+    padding-top: 15px;
+}
+div{
+    text-align: left;
+}
